@@ -130,7 +130,11 @@ Over a 600-episode run, the agent goes from crashing on contact to reliably land
 
 The raw per-episode reward stays noisy even after solving (the occasional dip is a bad starting condition or a stray exploration step), but the moving average — the metric that actually defines "solved" — sits comfortably above the line.
 
-A sample landing is in [`dqn-lander-episode-1.mp4`](dqn-lander-episode-1.mp4).
+A sample landing is in 
+
+https://github.com/user-attachments/assets/1ac6b49e-f277-47b8-82e7-019a7a266bce
+
+.
 
 ---
 
